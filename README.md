@@ -1,8 +1,10 @@
 # Lab3Web - Praktikum 3: CSS Dasar
 
-Nama  : (isi nama)
-NIM   : (isi NIM)
-Kelas : (isi kelas)
+Nama  : Naifah Alya Kamilah
+
+NIM   : 312510193
+
+Mata Kuliah : Pemrograman Web
 
 ---
 
