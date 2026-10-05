@@ -253,7 +253,7 @@ Hasil: paragraf 1 berwarna biru (CSS internal mengalahkan CSS eksternal karena `
 
 ![Hasil demo soal 3](images/8_soal3.png)
 
-Bukti tambahan pada halaman utama: pada percobaan 7, CSS eksternal `#intro p { color: yellow; }` tidak mengubah warna paragraf karena kalah oleh inline CSS `color: #ccd8e4`.
+Bukti tambahan pada halaman utama: pada percobaan 7, CSS eksternal `#intro p { color: green; }` tidak mengubah warna paragraf karena kalah oleh inline CSS `color: #ccd8e4`.
 
 ---
 
