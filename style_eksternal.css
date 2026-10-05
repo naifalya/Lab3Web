@@ -1,0 +1,52 @@
+nav {
+    background: #7B2CBF;
+    color: #fff;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #0B6B3A;
+}
+
+/* ID Selector */
+#intro {
+    background: #418fb1;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+#intro p {
+    color: yellow;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 3;
+}
+
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 60px;
+}
+.btn-primary {
+    background: #E42A42;
+}
+
+.btn-primary:hover {
+    background: #e98f9b;
+}
